@@ -100,7 +100,7 @@ MOTIVO_ANOMALIA = {
 
 @st.cache_data(show_spinner="Cargando dataset…")
 def load_data() -> pd.DataFrame:
-    df = pd.read_csv("data_raw_meli.csv")
+    df = pd.read_csv("data_clean_meli.csv")
     df["storage_gb"]        = pd.to_numeric(df["storage_gb"], errors="coerce").fillna(128).astype(int)
     df["shipping_free"]     = df["shipping_free"].astype(bool)
     df["shipping_free_num"] = df["shipping_free"].astype(int)
