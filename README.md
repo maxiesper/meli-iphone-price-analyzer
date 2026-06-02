@@ -123,7 +123,7 @@ El sistema devuelve:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/maximiliano-esper/meli-iphone-price-analyzer.git
+git clone https://github.com/maxiesper/meli-iphone-price-analyzer.git
 cd meli-iphone-price-analyzer
 ```
 
@@ -194,7 +194,7 @@ El veredicto combina: desviación vs modelo ML, posición IQR estadístico, y fl
 Tecnicatura en Ciencia de Datos · Universidad Nacional de Salta  
 Licenciado en Ciencias de la Comunicación · UNSA  
 
-[LinkedIn](https://linkedin.com/in/maximiliano-esper) · [GitHub](https://github.com/maximiliano-esper)
+[LinkedIn](https://www.linkedin.com/in/nahir-esper) · [GitHub](https://github.com/maxiesper)
 
 ---
 
